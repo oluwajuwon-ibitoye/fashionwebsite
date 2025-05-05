@@ -22,10 +22,11 @@
     margin-right: 30px;
     margin-left: 25px;
     letter-spacing: .2em;
+   
+}
+.topnav .active{
     font-weight: bold; /* Equivalent to 700 */
 }
-  }
-
   .topnav a.icon{
       float: right;
       font-size: 20px;
